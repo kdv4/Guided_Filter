@@ -1,5 +1,5 @@
 # Guided Image Filtering
-Guided Image Filtering uses a guided filter which can be used as an edge-preserving smoothing operator similar to the popular bilateral filter but with better behaviour near edges. It can be also be used to transfer the structures of the guidance image to the filtering output for applications like dehazing. This paper analyzes the performance of guided image filtering on various application like in Noise Removal, Image Enhacement, Structure Transfer and Flash/No-Flash Denoising. It also helps in improving segmentation labeled output.
+Guided Image Filtering uses a guided filter which can be used as an edge-preserving smoothing operator similar to the popular bilateral filter but with better behaviour near edges. It can be also be used to transfer the structures of the guidance image to the filtering output for applications like dehazing. Here we analyzes the performance of guided image filtering on various application like in Noise Removal, Image Enhacement, Structure Transfer and Flash/No-Flash Denoising. It also helps in improving segmentation labeled output.
 
 ## Repository consists of:
   - Report with algorithm and mathematical derivation of Guided filter.
